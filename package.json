@@ -1,5 +1,5 @@
 {
-  "name": "tp1",
+    "name": "@robin55588/tp1",
   "version": "1.0.0",
   "description": "",
   "homepage": "https://github.com/vipin08/test-tp1#readme",
@@ -18,6 +18,6 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
-  }
+  "test": "echo \"No tests\""
+}
 }
